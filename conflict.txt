@@ -1,1 +1,5 @@
-Hi this is my firstfile in it
+<<<<<<< HEAD
+Hi this is my firstfile in it and make it possible
+=======
+Hi this is conflict concept and I wanted to make it another and wanna do it another time
+>>>>>>> bheem
